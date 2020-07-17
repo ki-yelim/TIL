@@ -140,5 +140,8 @@ $ git bush origine master
 
 origine 이라는 이름의 원격저장소로 commit 기들을 없로드 한다. 
 
-이후, 변셩사항이 생길 때 마다,` add `- `commit` -` push` 를 반복한다. 
+이후, 변경사항이 생길 때 마다,` add `- `commit` -` push` 를 반복한다. 
 
+
+
+### 3. 추가내용
